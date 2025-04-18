@@ -1,1 +1,1 @@
-# .github
+jgp.ai
